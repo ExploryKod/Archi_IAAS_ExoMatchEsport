@@ -6,20 +6,21 @@
 ## <p align="center"> Exercice d'architecture logicielle Hetic Web2 </p>
 
 ### Buts
-- Créer 2 diagrammes d'activité sur certains points 
-- Créer 1 diagramme pour présentation la proposition d'infrastructure (digramme de déploiement)
+Mieux comprendre l'infrastructure IAAS via un besoin lié à des match e-sport et la gestion d'un public cible (Média) via une application.
+- Créer 2 diagrammes d'activité sur certains points <br/>
+- Créer 1 diagramme pour présentation la proposition d'infrastructure (diagramme de déploiement)
 
 ## Installation
 
-Installer draw.io pour lire les diagrammes d'activité 
+Installer draw.io (gratuit) pour lire les diagrammes d'activité 
+Lien pour installer draw.io : https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10 
 Importer les fichiers via la fonction zip de github
 
-Equipe:
-Maxime Desruets
-Amaury Franssen
+## Equipe:
+Maxime Desruets<br/>
+Amaury Franssen<br/>
 Nassim Aissaoui
 
-## Technologie
-
-Langages: UML
+## Technologies
+Langages: UML<br/>
 Outil: draw.io
