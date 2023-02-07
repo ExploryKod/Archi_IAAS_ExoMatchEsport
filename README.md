@@ -8,7 +8,7 @@
 ### Buts
 Mieux comprendre l'infrastructure IAAS via un besoin lié à des match e-sport et la gestion d'un public cible (Média) via une application.
 - Créer 2 diagrammes d'activité sur certains points (2.1 - gestion des médias et 3.2 -assignation des places) <br/>
-- Créer 1 diagramme pour présentation la proposition d'infrastructure (diagramme de déploiement)
+- Créer 1 diagramme pour présenter la proposition d'infrastructure sur le modèle IAAS avec Azur comme prestataire (diagramme de déploiement)<br/>
 
 ## Installation
 
