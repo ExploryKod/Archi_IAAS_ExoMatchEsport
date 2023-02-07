@@ -12,7 +12,7 @@ Mieux comprendre l'infrastructure IAAS via un besoin lié à des match e-sport e
 
 ## Installation
 
-Installer draw.io (gratuit) pour lire les diagrammes d'activité 
+Installer draw.io (gratuit) pour lire les diagrammes d'activité <br/>
 Lien pour installer draw.io :<br/> https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10 <br/>
 Importer les fichiers via la fonction zip de github
 
